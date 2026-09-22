@@ -1,0 +1,2 @@
+Editar solo el texto del index y index1 mas no los codigos, ya que pueden ser alterados, los programadores saben a lo que me refiero xd
+puedes cambiar la imagen q va dentro d la carta, y la musica tambien. subir a un repositorio toda la carpeta por si quieren enviar mediante link directo a esa persona :) 
